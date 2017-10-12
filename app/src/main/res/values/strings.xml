@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ParkMe</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="js_field_fields">fields</string>
+    <string name="js_field_geometry">geometry</string>
+    <string name="js_field_coordinates">coordinates</string>
+    <string name="js_field_numvoi">numvoi</string>
+    <string name="js_field_typvoie">typvoie</string>
+    <string name="js_field_nomvoie">nomvoie</string>
+    <string name="js_field_pre_arrond">750</string>
+    <string name="js_field_arrond">arrond</string>
+</resources>
