@@ -10,4 +10,5 @@
     <string name="js_field_nomvoie">nomvoie</string>
     <string name="js_field_pre_arrond">750</string>
     <string name="js_field_arrond">arrond</string>
+    <string name="http_url_request">"https://opendata.paris.fr/api/records/1.0/search/?dataset=stationnement-sur-voie-publique-emprises&amp;rows=30&amp;facet=zonres&amp;facet=regpri&amp;facet=regpar&amp;facet=typsta&amp;facet=typ&amp;facet=arrond&amp;refine.regpri=2+Roues&amp;refine.regpar=Motos"</string>
 </resources>
