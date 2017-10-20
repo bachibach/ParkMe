@@ -10,6 +10,19 @@
     <string name="js_field_nomvoie">nomvoie</string>
     <string name="js_field_pre_arrond">750</string>
     <string name="js_field_arrond">arrond</string>
-    <string name="http_url_request">"https://opendata.paris.fr/api/records/1.0/search/?dataset=stationnement-sur-voie-publique-emprises&amp;facet=zonres&amp;facet=regpri&amp;facet=regpar&amp;facet=typsta&amp;facet=typ&amp;facet=arrond&amp;refine.regpri=2+Roues&amp;refine.regpar=Motos"</string>
+    <string name="url_base">"https://opendata.paris.fr/api/records/1.0/search/?dataset=stationnement-sur-voie-publique-emprises"</string>
+    <string name="url_facet">facet</string>
+    <string name="url_facet_zonres">zonres</string>
+    <string name="url_facet_regpar">regpar</string>
+    <string name="url_facet_typsta">typsta</string>
+    <string name="url_facet_typ">typ</string>
+    <string name="url_facet_arrond">arrond</string>
+    <string name="url_refine_pri">refine.regpri</string>
+    <string name="url_refine_par">refine.regpar</string>
+    <string name="url_refine_2roues">2+Roues</string>
+    <string name="url_refine_motos">Motos</string>
+    <string name="url_geofilter">geofilter.distance</string>
+    <string name="url_geofilter_sep">%2C</string>
+    <string name="http_url_request_predefined">"https://opendata.paris.fr/api/records/1.0/search/?dataset=stationnement-sur-voie-publique-emprises&amp;facet=zonres&amp;facet=regpri&amp;facet=regpar&amp;facet=typsta&amp;facet=typ&amp;facet=arrond&amp;refine.regpri=2+Roues&amp;refine.regpar=Motos"</string>
 </resources>
 
